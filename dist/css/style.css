@@ -100,7 +100,7 @@ html, body {
   padding-top: 5rem;
 }
 .hero-box {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/assets/images/hero.webp);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/images/hero.webp);
   padding: 60px 20px;
   border-radius: 2rem;
 }
